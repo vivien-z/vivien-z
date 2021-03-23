@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuanyuan Zhu</h1>
 <h3 align="center">A self-motivated former accountant, fascinated by how much technology could change the world around us, decided to switch careers to be a developer.</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/vivien-z/my-portfolio-zhu)
+- 🔭 I’m currently working on [my portfolio](https://www.yuanyuan-zhu.com/)
 
 - 👨‍💻 All of my projects are available on [GitHub]
 

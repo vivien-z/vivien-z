@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuanyuan Zhu</h1>
 <h3 align="center">A self-motivated former accountant, fascinated by how much technology could change the world around us, switching careers to be a developer.</h3>
 
-- 🔭 I’m currently looking for juninor job opportunities. Have a look at [my portfolio](https://yuanyuan-zhu.com/)
+- 🔭 I’m currently looking for juninor job opportunities. Have a look at [my portfolio](https://www.yuanyuan-zhu.com/)
 
 - 👨‍💻 All of my projects are available on [GitHub]
 
